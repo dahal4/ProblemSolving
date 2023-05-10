@@ -1,2 +1,1 @@
-# ProblemSolving
-solving leetcode problems
+# CodeChallenge
